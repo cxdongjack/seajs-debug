@@ -12,7 +12,7 @@
     font-family: "fontello";
 }
 
-
+s
 #seajs-debug-console, #seajs-debug-console * {
     margin: 0;
     padding: 0;
@@ -128,6 +128,8 @@
 }
 
 #seajs-debug-console #seajs-debug-status span {
+    width: 300px;
+    text-align: left;
     display: inline-block;
     *display: inline;
     *zoom: 1;
